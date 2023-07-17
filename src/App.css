@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.App {
+  /* text-align: center; */
+  cursor: url(./assets/images/Pointer1sm.png), auto;
+}
+
+/* a {
+  cursor: url(./assets/images/Pointer2.png), pointer;
+} */
+
+.introFade {
+  animation-name: FadeIn;
+  animation-duration: 5s;
+  transition-timing-function: linear;
+}   @keyframes FadeIn {
+      0% {
+      opacity: 0;
+      }
+      100% {
+      opacity: 1;
+      }
+    }
