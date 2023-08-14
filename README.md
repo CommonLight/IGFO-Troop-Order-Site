@@ -1,3 +1,12 @@
+This was my main solo project in my final weeks at the Coding Dojo.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
